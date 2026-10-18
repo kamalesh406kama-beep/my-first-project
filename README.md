@@ -34,6 +34,7 @@ Through this project, I learned how to create a repository, clone a project, mak
 The goal of this project is to gain practical knowledge of Git and GitHub through hands-on practice.
 
 ## Conclusion
+This line was added directly on GitHub website.
 
 This project helped me understand the basics of version control and how GitHub can be used to manage and collaborate on projects.
 
